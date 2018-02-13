@@ -1,4 +1,4 @@
-connect = require 'express/node_modules/connect'
+connect = require 'connect'
 express = require 'express'
 io = require 'socket.io'
 http = require 'http'
